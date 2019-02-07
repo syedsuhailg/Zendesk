@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7566" started-at="2019-02-07T18:02:34Z" finished-at="2019-02-07T18:02:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7566" started-at="2019-02-07T18:02:34Z" finished-at="2019-02-07T18:02:42Z">
+      <class name="Zendesk.Zendesk_Repo.TestCase">
+        <test-method status="PASS" signature="getTickets()[pri:0, instance:Zendesk.Zendesk_Repo.TestCase@29ca901e]" name="getTickets" is-config="true" duration-ms="2757" started-at="2019-02-07T18:02:34Z" finished-at="2019-02-07T18:02:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTickets -->
+        <test-method status="PASS" signature="getListOfTickets()[pri:1, instance:Zendesk.Zendesk_Repo.TestCase@29ca901e]" name="getListOfTickets" duration-ms="1017" started-at="2019-02-07T18:02:37Z" finished-at="2019-02-07T18:02:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfTickets -->
+        <test-method status="PASS" signature="createTickets()[pri:2, instance:Zendesk.Zendesk_Repo.TestCase@29ca901e]" name="createTickets" duration-ms="1920" started-at="2019-02-07T18:02:38Z" finished-at="2019-02-07T18:02:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTickets -->
+        <test-method status="PASS" signature="updateTicketStatus()[pri:3, instance:Zendesk.Zendesk_Repo.TestCase@29ca901e]" name="updateTicketStatus" duration-ms="843" started-at="2019-02-07T18:02:40Z" finished-at="2019-02-07T18:02:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateTicketStatus -->
+        <test-method status="PASS" signature="deleteTicket()[pri:4, instance:Zendesk.Zendesk_Repo.TestCase@29ca901e]" name="deleteTicket" duration-ms="1001" started-at="2019-02-07T18:02:41Z" finished-at="2019-02-07T18:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTicket -->
+      </class> <!-- Zendesk.Zendesk_Repo.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,26 @@
+
+
+This readme explain how to run create, update, Get and Delete API's.
+
+# Getting Started
+ ----------------
+These instructions will get you a copy of this project up and runinng on your local machine.
+
+#Option 1 :
+ ---------
+1.  Download the project from email.
+2.  Unzip the project.
+3.  Import the project in IDE.
+4.  Run the testng.xml
+
+#Option 2 :
+ ---------
+1.  Download the project from email.
+2.  Unzip the project.
+3.  Import the project in IDE.
+4.  Expand the Zendesk_Repo
+5.  Expand and go to src/test/java
+6.  Expand Zendesk.Zendesk_repo
+7.  Open the TestCase.Java
+8.  Run the test case as TestNG test
+
